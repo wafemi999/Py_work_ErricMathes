@@ -1,0 +1,5 @@
+10_1_learningPython.txt
+in python i can midify lists and dictionaries
+in python i have learnt how to make use of classes
+in python i have learnt how to make use of functions
+in python i have learnt the fundamentals of file exception
